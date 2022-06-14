@@ -1,5 +1,5 @@
 # Computer Architecture
- - CPU Instructions coded in VHDL
+ CPU Instructions coded in VHDL
 
 ## Description
 
